@@ -10,7 +10,7 @@ defmodule Matic.MixProject do
     [
       app: :matic,
       version: "0.1.0",
-      elixir: "~> 1.11",
+      elixir: "~> 1.12",
       deps: deps(),
       aliases: aliases(),
       escript: escript()
